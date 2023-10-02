@@ -13,6 +13,7 @@ augmentRNA can be installed via the pip package manager for python
 ```sh
 pip install augmentRNA
 ```
+PyPi link: https://pypi.org/project/augmentRNA/
 
 # Features
 ----------
